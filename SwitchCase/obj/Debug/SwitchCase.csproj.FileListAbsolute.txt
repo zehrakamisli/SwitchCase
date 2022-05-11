@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe.config
+C:\Users\LENOVO\source\repos\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe
+C:\Users\LENOVO\source\repos\SwitchCase\SwitchCase\bin\Debug\SwitchCase.pdb
+C:\Users\LENOVO\source\repos\SwitchCase\SwitchCase\obj\Debug\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\SwitchCase\SwitchCase\obj\Debug\SwitchCase.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\SwitchCase\SwitchCase\obj\Debug\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\SwitchCase\SwitchCase\obj\Debug\SwitchCase.exe
+C:\Users\LENOVO\source\repos\SwitchCase\SwitchCase\obj\Debug\SwitchCase.pdb
